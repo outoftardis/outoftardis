@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I am a technical writer. I’m currently working on [Hyperledger Iroha 2](https://github.com/hyperledger/iroha/tree/iroha2-dev#hyperledger-iroha).
+I am a technical writer with 6+ years of experience, and I’m currently looking for new job opportunities. 
+
+Here is a brief overview of my experience:
+- Supported technical documentation for various software products at Intel and Soramitsu.
+- Worked with a variety of tools and markup languages (Sphinx, Doxygen, Git, internal CMS, XMetal, DITA, reStructuredText, Markdown, LaTeX, VitePress).
+- Worked on quality assurance initiatives and quality checks automation. Used Python scripting skills to contribute to the validation tools and procedures.
+- Took part in standardization initiatives: contributed to the development of an internal style guide, drafted guidelines for other technical writers, created templates.
+- Reviewed and edited additional materials (blogs, articles) created to promote the supported products. Peer-reviewed technical documentation for other products.
 
 ### GitHub Stats
 
