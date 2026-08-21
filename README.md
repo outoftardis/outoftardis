@@ -9,11 +9,6 @@ Here is a brief overview of my experience:
 - Took part in standardization initiatives: contributed to the development of an internal style guide, drafted guidelines for other technical writers, created templates.
 - Reviewed and edited additional materials (blogs, articles) created to promote the supported products. Peer-reviewed technical documentation for other products.
 
-### GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outoftardis&theme=aura_dark&show_icons=true&count_private=true&hide_border=true&hide=stars&hide_title=true)](https://github.com/outoftardis)
-
-
 ### Connect with me
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterina-mekhnetsova/)
